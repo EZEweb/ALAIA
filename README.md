@@ -1,2 +1,2 @@
-# ALAIA
-Web institucional de ALAIA
+# MEDG
+Web institucional de MEDG
